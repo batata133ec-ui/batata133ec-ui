@@ -1,4 +1,4 @@
-## Print("Hello, World!")
+## print("Hello, World!")
 
 > Estudante de **Programação e Robótica**
 
